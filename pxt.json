@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Ping": "github:mcuervo-edu/ping#2e54aee779ff1804bcf5559ac048593375d22ec4"
     },
     "files": [
         "main.blocks",
